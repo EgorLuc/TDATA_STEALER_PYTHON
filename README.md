@@ -1,5 +1,5 @@
 # TDATA_STEALER_PYTHON
-images.png
+![Alt-текст](images.png)
 
 Стиллер TDATA на python
 Данный код крадет TDATA и отправляет вам в личные сообщения бота
