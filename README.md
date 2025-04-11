@@ -9,6 +9,6 @@
 <code>ID</code>
 
 Установка:
-<code>pip install -r requrments.txt</code>
+<code>pip install -r requirments.txt</code>
 
 Разработчика этой дрестни можно найти https://linktr.ee/egorkapomidorka
