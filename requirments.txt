@@ -1,0 +1,4 @@
+os
+shutil
+psutil
+PyTelegramBotAPI
